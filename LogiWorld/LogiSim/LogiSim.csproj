@@ -6,7 +6,6 @@
 
   <ItemGroup>
     <Folder Include="instance\" />
-    <Folder Include="util\" />
   </ItemGroup>
 
 </Project>

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Pythons\\projects\\apps\\LogiSim\\Logi_sharp\\LogiWorld\\LogiSim\\LogiSim.csproj",
+      "projectUniqueName": "C:\\Pythons\\projects\\sharps\\LogiSim\\Logi_sharp\\LogiWorld\\LogiSim\\LogiSim.csproj",
       "projectName": "LogiSim",
-      "projectPath": "C:\\Pythons\\projects\\apps\\LogiSim\\Logi_sharp\\LogiWorld\\LogiSim\\LogiSim.csproj",
+      "projectPath": "C:\\Pythons\\projects\\sharps\\LogiSim\\Logi_sharp\\LogiWorld\\LogiSim\\LogiSim.csproj",
       "packagesPath": "C:\\Users\\mboffadossi\\.nuget\\packages\\",
-      "outputPath": "C:\\Pythons\\projects\\apps\\LogiSim\\Logi_sharp\\LogiWorld\\LogiSim\\obj\\",
+      "outputPath": "C:\\Pythons\\projects\\sharps\\LogiSim\\Logi_sharp\\LogiWorld\\LogiSim\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -60,17 +60,11 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
       }
     }
   }

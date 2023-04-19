@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LogiApp
-build_property.ProjectDir = C:\Pythons\projects\apps\LogiSim\Logi_sharp\LogiWorld\LogiApp\
+build_property.ProjectDir = C:\Pythons\projects\sharps\LogiSim\Logi_sharp\LogiWorld\LogiApp\

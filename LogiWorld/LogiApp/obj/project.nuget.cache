@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HMWOmDQJdn+Vs3Jqmppi0MHWSr7jsKtHXdbclfP10QDjGQXzqEWhJOchZEZDSGSeDheEXkp6QqpOD9G86Nlfjg==",
+  "dgSpecHash": "PnTUF4GDmG7tZDpT5ByFc2tvFKRC26qNLko/AuZ6i2WnFw6uwA3aK+awm/Oi0ff0ON+CmHY2d9yFTyuw597z6A==",
   "success": true,
-  "projectFilePath": "C:\\Pythons\\projects\\apps\\LogiSim\\Logi_sharp\\LogiWorld\\LogiApp\\LogiApp.csproj",
+  "projectFilePath": "C:\\Pythons\\projects\\sharps\\LogiSim\\Logi_sharp\\LogiWorld\\LogiApp\\LogiApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
